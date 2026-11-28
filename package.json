@@ -1,0 +1,12 @@
+{
+  "name": "sica-benchmark-slice",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test",
+    "benchmark": "node js/cli.js run",
+    "select": "node js/cli.js select"
+  }
+}

@@ -1,0 +1,6 @@
+[
+  { "question": "A studio buys 8 packs of 150 labels. How many labels does it buy?", "answer": "8 times 150 is 1200. #### 1,200" },
+  { "question": "A team splits 9 hours evenly across 4 tasks. How many hours does each task get?", "answer": "9 divided by 4 is 2.25. #### 2.25" },
+  { "question": "A train has 38 passengers. Nine leave. How many remain?", "answer": "38 minus 9 is 29. #### 29" },
+  { "question": "A shop sells 3 prints for 7 dollars each. How many dollars does it earn?", "answer": "3 times 7 is 21. #### 21" }
+]

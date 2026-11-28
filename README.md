@@ -14,6 +14,8 @@ The system operates as an iterative improvement loop:
 
 See [our workshop paper](https://openreview.net/pdf?id=rShJCyLsOr) for more details.
 
+For the offline Node.js benchmark runner, result archive, and base-iteration selector, see the [scripted benchmark quickstart](js/README.md).
+
 ## Quickstart
 
 > IMPORTANT NOTE: always run the agent in the provided Docker container. Since the agent can execute shell commands, this offers some isolation from your host machine, avoiding inadvertent file system manipulation and similar risks.
